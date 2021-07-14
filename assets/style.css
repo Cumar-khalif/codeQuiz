@@ -1,0 +1,41 @@
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+
+#gameStart{
+    border-radius: 2px;
+    border-style: none;
+    box-shadow:rgba(38, 35, 34, 0.15) 3px 0 0 4px inset;
+    color: rgb(226, 33, 33);
+    cursor: pointer;
+    font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+    font-size: 1.3em;
+    padding: 20px;
+    margin-bottom: 60px;;
+  }
+
+  .wrapper {
+    padding: 20px;
+    
+}
+#add {
+    background-color: #093145;;
+  }
+  
+  #subtract {
+    background-color: #f64900
+  }
+
+  body{
+    text-align: center;
+  }
+  .bgImage {
+    background: url(./images.png);
+    background-size: cover;
+}
+  
